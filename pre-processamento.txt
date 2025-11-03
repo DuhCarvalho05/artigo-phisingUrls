@@ -1,0 +1,13 @@
+- editDomain
+	- adequamos o nome da variavel alvo para melhorar o entendimento 
+	- adequamos as variaveis binarias para também melhorar o entendimento
+	- binning nas variveis de taxa
+		(
+		TLDLegitimateProb (OK),
+		URLCharProb,
+		ObfuscationRatio,
+		LetterRatioInURL,
+		DegitRatioInURL,
+		LineOfCode,
+		DomainTitleMatchScore,
+		URLTitleMatchScore
