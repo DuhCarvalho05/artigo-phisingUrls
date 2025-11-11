@@ -1,0 +1,126 @@
+{
+    "categorical": {
+        "IsDomainIP": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "HasObfuscation": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "IsHTTPS": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "HasTitle": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "HasFavicon": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "Robots": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "IsResponsive": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "NoOfURLRedirect": {
+            "renamed_values": {},
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "NoOfSelfRedirect": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "HasDescription": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "HasExternalFormSubmit": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "HasSocialNet": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "HasSubmitButton": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "HasHiddenFields": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "HasPasswordField": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "Bank": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "Pay": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "Crypto": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "HasCopyrightInfo": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        },
+        "IsPhising": {
+            "colors": {
+                "FALSO": "#FF0000",
+                "VERDADEIRO": "#00FF00"
+            }
+        }
+    },
+    "numeric": {}
+}
