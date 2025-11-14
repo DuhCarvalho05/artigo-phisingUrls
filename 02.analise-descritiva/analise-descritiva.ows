@@ -10,7 +10,7 @@
 		<node id="6" name="Distributions" qualified_name="Orange.widgets.visualize.owdistributions.OWDistributions" project_name="Orange3" version="" title="HasFavicon" position="(864.0, 493.0)" />
 		<node id="7" name="Distributions" qualified_name="Orange.widgets.visualize.owdistributions.OWDistributions" project_name="Orange3" version="" title="IsResponsive" position="(565.0, 262.0)" />
 		<node id="8" name="Scatter Plot" qualified_name="Orange.widgets.visualize.owscatterplot.OWScatterPlot" project_name="Orange3" version="" title="UrlSimilarityIndex | DegitRatio" position="(864.0, 746.0)" />
-		<node id="9" name="Feature Statistics" qualified_name="Orange.widgets.data.owfeaturestatistics.OWFeatureStatistics" project_name="Orange3" version="" title="Feature Statistics" position="(324.0, 208.0)" />
+		<node id="9" name="Feature Statistics" qualified_name="Orange.widgets.data.owfeaturestatistics.OWFeatureStatistics" project_name="Orange3" version="" title="Feature Statistics" position="(324.0, 209.0)" />
 		<node id="10" name="Distributions" qualified_name="Orange.widgets.visualize.owdistributions.OWDistributions" project_name="Orange3" version="" title="HasSocialNet" position="(856.0, 621.0)" />
 	</nodes>
 	<links>
@@ -28,17 +28,17 @@
 	<annotations />
 	<thumbnail />
 	<node_properties>
-		<properties node_id="0" format="literal">{'_session_items': [], '_session_items_v2': [({'type': 'AbsPath', 'path': 'C:/Users/gutss/Documents/IFSP/6-semestre/mind/artigo-phisingUrls/01.pre-processamento/dados-processados.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 51, 'value': 'Auto'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}, {'start': 1, 'stop': 2, 'value': 'Skipped'}, {'start': 2, 'stop': 3, 'value': 'Skipped'}], 'decimal_separator': '.', 'group_separator': ''}), ({'type': 'AbsPath', 'path': 'C:/Users/gutss/Documents/IFSP/6-semestre/mind/artigo-phisingUrls/dados-processados.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 51, 'value': 'Auto'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}, {'start': 1, 'stop': 2, 'value': 'Skipped'}, {'start': 2, 'stop': 3, 'value': 'Skipped'}], 'decimal_separator': '.', 'group_separator': ''})], 'compatibility_mode': False, 'controlAreaVisible': True, 'dialog_state': {'directory': 'C:/Users/gutss/Documents/IFSP/6-semestre/mind/artigo-phisingUrls/01.pre-processamento', 'filter': 'Text - comma separated (*.csv, *)'}, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\xff\xff\xfb\xb1\x00\x00\x00\x06\xff\xff\xfc\xc8\x00\x00\x01X\xff\xff\xfb\xb2\x00\x00\x00\x1f\xff\xff\xfc\xc7\x00\x00\x01W\x00\x00\x00\x01\x00\x00\x00\x00\x07\x80\xff\xff\xfb\xb2\x00\x00\x00\x1f\xff\xff\xfc\xc7\x00\x00\x01W', '__version__': 3}</properties>
-		<properties node_id="1" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\xff\xff\xf9\x18\x00\x00\x00\x92\xff\xff\xff\x16\x00\x00\x03\xba\xff\xff\xf9\x19\x00\x00\x00\xab\xff\xff\xff\x15\x00\x00\x03\xb9\x00\x00\x00\x01\x00\x00\x00\x00\x07\x80\xff\xff\xf9\x19\x00\x00\x00\xab\xff\xff\xff\x15\x00\x00\x03\xb9', 'select_rows': True, 'show_attribute_labels': True, 'show_distributions': False, 'stored_selection': {'rows': [], 'columns': []}, 'stored_sort': [], '__version__': 1}</properties>
+		<properties node_id="0" format="literal">{'_session_items': [], '_session_items_v2': [({'type': 'AbsPath', 'path': '/Users/caioslopes/Ifsp/mineracao-dados/artigo-phisingUrls/01.pre-processamento/dados-processados.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 51, 'value': 'Auto'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}, {'start': 1, 'stop': 2, 'value': 'Skipped'}, {'start': 2, 'stop': 3, 'value': 'Skipped'}], 'decimal_separator': '.', 'group_separator': ''}), ({'type': 'AbsPath', 'path': '/C:/Users/gutss/Documents/IFSP/6-semestre/mind/artigo-phisingUrls/01.pre-processamento/dados-processados.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 51, 'value': 'Auto'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}, {'start': 1, 'stop': 2, 'value': 'Skipped'}, {'start': 2, 'stop': 3, 'value': 'Skipped'}], 'decimal_separator': '.', 'group_separator': ''}), ({'type': 'AbsPath', 'path': '/C:/Users/gutss/Documents/IFSP/6-semestre/mind/artigo-phisingUrls/dados-processados.csv'}, {'encoding': 'utf-8', 'delimiter': ',', 'quotechar': '"', 'doublequote': True, 'skipinitialspace': True, 'quoting': 0, 'columntypes': [{'start': 0, 'stop': 51, 'value': 'Auto'}], 'rowspec': [{'start': 0, 'stop': 1, 'value': 'Header'}, {'start': 1, 'stop': 2, 'value': 'Skipped'}, {'start': 2, 'stop': 3, 'value': 'Skipped'}], 'decimal_separator': '.', 'group_separator': ''})], 'compatibility_mode': False, 'controlAreaVisible': True, 'dialog_state': {'directory': '/Users/caioslopes/Ifsp/mineracao-dados/artigo-phisingUrls/01.pre-processamento', 'filter': 'Text - comma separated (*.csv, *)'}, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1f\x00\x00\x01O\x00\x00\x01\x96\x00\x00\x00\x01\x00\x00\x00;\x00\x00\x01O\x00\x00\x01\x96\x00\x00\x00\x00\x02\x00\x00\x00\x05\xa0\x00\x00\x00\x01\x00\x00\x00;\x00\x00\x01O\x00\x00\x01\x96', '__version__': 3}</properties>
+		<properties node_id="1" format="literal">{'auto_commit': True, 'color_by_class': True, 'controlAreaVisible': True, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x00\x01\x00\x00\x00 \x00\x00\x02\x80\x00\x00\x02\x1b\x00\x00\x00\x01\x00\x00\x00&lt;\x00\x00\x02\x80\x00\x00\x02\x1b\x00\x00\x00\x00\x00\x00\x00\x00\x05\xa0\x00\x00\x00\x01\x00\x00\x00&lt;\x00\x00\x02\x80\x00\x00\x02\x1b', 'select_rows': True, 'show_attribute_labels': True, 'show_distributions': False, 'stored_selection': {'rows': [], 'columns': []}, 'stored_sort': [], '__version__': 1}</properties>
 		<properties node_id="2" format="pickle">gASVSFMAAAAAAAB9lCiMCmF1dG9fYXBwbHmUiIwSY29udHJvbEFyZWFWaXNpYmxllIiME3NhdmVk
-V2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAP//+wkAAACL///+KwAAAwv///sKAAAApP///ioAAAMK
-AAAAAQAAAAAHgP//+woAAACk///+KgAAAwqUjBVzZWxlY3RlZF9zY2hlbWFfaW5kZXiUSwCMC19f
+V2lkZ2V0R2VvbWV0cnmUQ0IB2dDLAAMAAAAAAAEAAAAgAAACgAAAAhsAAAABAAAAPAAAAoAAAAIb
+AAAAAAAAAAAFoAAAAAEAAAA8AAACgAAAAhuUjBVzZWxlY3RlZF9zY2hlbWFfaW5kZXiUSwCMC19f
 dmVyc2lvbl9flEsCjBBjb250ZXh0X3NldHRpbmdzlF2UKIwVb3Jhbmdld2lkZ2V0LnNldHRpbmdz
 lIwHQ29udGV4dJSTlCmBlH2UKIwGdmFsdWVzlH2UKIwKY29udF9kZXNjc5RdlCiMG09yYW5nZS53
 aWRnZXRzLmRhdGEub3djb2xvcpSMDENvbnRBdHRyRGVzY5STlCmBlH2UKIwDdmFylIwUT3Jhbmdl
 LmRhdGEudmFyaWFibGWUjA1tYWtlX3ZhcmlhYmxllJOUaBiMEkNvbnRpbnVvdXNWYXJpYWJsZZST
 lE6MCVVSTExlbmd0aJSHlFKUfZQojAVfbmFtZZRoHYwOX2NvbXB1dGVfdmFsdWWUTowLdW5rbm93
-bl9zdHKUj5QojACUjAE/lIwDbmFulIwCTkGUTowBfpSMAS6UR3/4AAAAAAAAkIwPc291cmNlX3Zh
+bl9zdHKUj5QojACUTowBfpSMA25hbpRHf/gAAAAAAACMAT+UjAEulIwCTkGUkIwPc291cmNlX3Zh
 cmlhYmxllE6MBnNwYXJzZZSJjAphdHRyaWJ1dGVzlH2UjA9fbWF4X3JvdW5kX2RpZmaUSwCME19u
 dW1iZXJfb2ZfZGVjaW1hbHOUSwOMD2FkanVzdF9kZWNpbWFsc5RLAowLX2Zvcm1hdF9zdHKUjAIl
 Z5SMCF9wYWxldHRllIwiT3JhbmdlLndpZGdldHMudXRpbHMuY29sb3JwYWxldHRlc5SMEUNvbnRp
@@ -585,29 +585,29 @@ SwGMBEJhbmuUSwGMA1BheZRLAYwGQ3J5cHRvlEsBjBBIYXNDb3B5cmlnaHRJbmZvlEsBjAlOb09m
 SW1hZ2WUSwKMB05vT2ZDU1OUSwKMBk5vT2ZKU5RLAowLTm9PZlNlbGZSZWaUSwKMDE5vT2ZFbXB0
 eVJlZpRLAowPTm9PZkV4dGVybmFsUmVmlEsCdYwFbWV0YXOUfZR1YmF1Lg==
 </properties>
-		<properties node_id="9" format="pickle">gASVDQUAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNzYXZl
-ZFdpZGdldEdlb21ldHJ5lENCAdnQywADAAD///h//////gAAAAAAAAQI///4gQAAADD////+AAAD
-egAAAAECAAAAB4D///iAAAAAF/////8AAAQHlIwHc29ydGluZ5RLA4wDc2lwlIwOX3VucGlja2xl
-X2VudW2Uk5SMDFB5UXQ1LlF0Q29yZZSMCVNvcnRPcmRlcpRLAYeUUpSGlIwLX192ZXJzaW9uX1+U
-SwKMEGNvbnRleHRfc2V0dGluZ3OUXZSMFW9yYW5nZXdpZGdldC5zZXR0aW5nc5SMB0NvbnRleHSU
-k5QpgZR9lCiMBnZhbHVlc5R9lCiMCWNvbG9yX3ZhcpROSv7///+GlIwNc2VsZWN0ZWRfdmFyc5Rd
-lGgOSwJ1jAphdHRyaWJ1dGVzlH2UKIwFTGFiZWyUSwGMCVVSTExlbmd0aJRLAowMRG9tYWluTGVu
-Z3RolEsCjApJc0RvbWFpbklQlEsBjBJVUkxTaW1pbGFyaXR5SW5kZXiUSwKMFENoYXJDb250aW51
-YXRpb25SYXRllEsCjBFUTERMZWdpdGltYXRlUHJvYpRLAowLVVJMQ2hhclByb2KUSwKMCVRMRExl
-bmd0aJRLAowNTm9PZlN1YkRvbWFpbpRLAowOSGFzT2JmdXNjYXRpb26USwGMEk5vT2ZPYmZ1c2Nh
-dGVkQ2hhcpRLAowQT2JmdXNjYXRpb25SYXRpb5RLAowQTm9PZkxldHRlcnNJblVSTJRLAowQTGV0
-dGVyUmF0aW9JblVSTJRLAowPTm9PZkRlZ2l0c0luVVJMlEsCjA9EZWdpdFJhdGlvSW5VUkyUSwKM
-D05vT2ZFcXVhbHNJblVSTJRLAowOTm9PZlFNYXJrSW5VUkyUSwKMEk5vT2ZBbXBlcnNhbmRJblVS
-TJRLAowaTm9PZk90aGVyU3BlY2lhbENoYXJzSW5VUkyUSwKMFVNwYWNpYWxDaGFyUmF0aW9JblVS
-TJRLAowHSXNIVFRQU5RLAYwKTGluZU9mQ29kZZRLAowRTGFyZ2VzdExpbmVMZW5ndGiUSwKMCEhh
-c1RpdGxllEsBjBVEb21haW5UaXRsZU1hdGNoU2NvcmWUSwKMElVSTFRpdGxlTWF0Y2hTY29yZZRL
-AowKSGFzRmF2aWNvbpRLAYwGUm9ib3RzlEsBjAxJc1Jlc3BvbnNpdmWUSwGMD05vT2ZVUkxSZWRp
-cmVjdJRLAYwQTm9PZlNlbGZSZWRpcmVjdJRLAYwOSGFzRGVzY3JpcHRpb26USwGMCU5vT2ZQb3B1
-cJRLAowKTm9PZmlGcmFtZZRLAowVSGFzRXh0ZXJuYWxGb3JtU3VibWl0lEsBjAxIYXNTb2NpYWxO
-ZXSUSwGMD0hhc1N1Ym1pdEJ1dHRvbpRLAYwPSGFzSGlkZGVuRmllbGRzlEsBjBBIYXNQYXNzd29y
-ZEZpZWxklEsBjARCYW5rlEsBjANQYXmUSwGMBkNyeXB0b5RLAYwQSGFzQ29weXJpZ2h0SW5mb5RL
-AYwJTm9PZkltYWdllEsCjAdOb09mQ1NTlEsCjAZOb09mSlOUSwKMC05vT2ZTZWxmUmVmlEsCjAxO
-b09mRW1wdHlSZWaUSwKMD05vT2ZFeHRlcm5hbFJlZpRLAnWMBW1ldGFzlH2UdWJhdS4=
+		<properties node_id="9" format="pickle">gASVBQUAAAAAAAB9lCiMC2F1dG9fY29tbWl0lIiMEmNvbnRyb2xBcmVhVmlzaWJsZZSIjBNzYXZl
+ZFdpZGdldEdlb21ldHJ5lENCAdnQywADAAAAAADmAAAAjgAABKUAAAKdAAAA5gAAAKoAAASlAAAC
+nQAAAAAAAAAABaAAAADmAAAAqgAABKUAAAKdlIwHc29ydGluZ5RLAIwMUHlRdDYuUXRDb3JllIwM
+UXQuU29ydE9yZGVylJOUSwCFlFKUhpSMC19fdmVyc2lvbl9flEsCjBBjb250ZXh0X3NldHRpbmdz
+lF2UjBVvcmFuZ2V3aWRnZXQuc2V0dGluZ3OUjAdDb250ZXh0lJOUKYGUfZQojAZ2YWx1ZXOUfZQo
+jAljb2xvcl92YXKUjAVMYWJlbJRLZYaUjA1zZWxlY3RlZF92YXJzlF2UjBBOb09mU2VsZlJlZGly
+ZWN0lEtlhpRhSv3///+GlGgMSwJ1jAphdHRyaWJ1dGVzlH2UKGgXSwGMCVVSTExlbmd0aJRLAowM
+RG9tYWluTGVuZ3RolEsCjApJc0RvbWFpbklQlEsBjBJVUkxTaW1pbGFyaXR5SW5kZXiUSwKMFENo
+YXJDb250aW51YXRpb25SYXRllEsCjBFUTERMZWdpdGltYXRlUHJvYpRLAowLVVJMQ2hhclByb2KU
+SwKMCVRMRExlbmd0aJRLAowNTm9PZlN1YkRvbWFpbpRLAowOSGFzT2JmdXNjYXRpb26USwGMEk5v
+T2ZPYmZ1c2NhdGVkQ2hhcpRLAowQT2JmdXNjYXRpb25SYXRpb5RLAowQTm9PZkxldHRlcnNJblVS
+TJRLAowQTGV0dGVyUmF0aW9JblVSTJRLAowPTm9PZkRlZ2l0c0luVVJMlEsCjA9EZWdpdFJhdGlv
+SW5VUkyUSwKMD05vT2ZFcXVhbHNJblVSTJRLAowOTm9PZlFNYXJrSW5VUkyUSwKMEk5vT2ZBbXBl
+cnNhbmRJblVSTJRLAowaTm9PZk90aGVyU3BlY2lhbENoYXJzSW5VUkyUSwKMFVNwYWNpYWxDaGFy
+UmF0aW9JblVSTJRLAowHSXNIVFRQU5RLAYwKTGluZU9mQ29kZZRLAowRTGFyZ2VzdExpbmVMZW5n
+dGiUSwKMCEhhc1RpdGxllEsBjBVEb21haW5UaXRsZU1hdGNoU2NvcmWUSwKMElVSTFRpdGxlTWF0
+Y2hTY29yZZRLAowKSGFzRmF2aWNvbpRLAYwGUm9ib3RzlEsBjAxJc1Jlc3BvbnNpdmWUSwGMD05v
+T2ZVUkxSZWRpcmVjdJRLAWgbSwGMDkhhc0Rlc2NyaXB0aW9ulEsBjAlOb09mUG9wdXCUSwKMCk5v
+T2ZpRnJhbWWUSwKMFUhhc0V4dGVybmFsRm9ybVN1Ym1pdJRLAYwMSGFzU29jaWFsTmV0lEsBjA9I
+YXNTdWJtaXRCdXR0b26USwGMD0hhc0hpZGRlbkZpZWxkc5RLAYwQSGFzUGFzc3dvcmRGaWVsZJRL
+AYwEQmFua5RLAYwDUGF5lEsBjAZDcnlwdG+USwGMEEhhc0NvcHlyaWdodEluZm+USwGMCU5vT2ZJ
+bWFnZZRLAowHTm9PZkNTU5RLAowGTm9PZkpTlEsCjAtOb09mU2VsZlJlZpRLAowMTm9PZkVtcHR5
+UmVmlEsCjA9Ob09mRXh0ZXJuYWxSZWaUSwJ1jAVtZXRhc5R9lHViYXUu
 </properties>
 		<properties node_id="10" format="pickle">gASVZgUAAAAAAAB9lCiMCmF1dG9fYXBwbHmUiIwSY29udHJvbEFyZWFWaXNpYmxllIiMEGN1bXVs
 YXRpdmVfZGlzdHKUiYwTZml0dGVkX2Rpc3RyaWJ1dGlvbpRLAIwJaGlkZV9iYXJzlImMDWtkZV9z
