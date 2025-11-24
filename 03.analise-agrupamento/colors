@@ -1,0 +1,21 @@
+{
+    "categorical": {
+        "label": {
+            "renamed_values": {},
+            "colors": {
+                "PHISING": "#ED462F",
+                "LEGITIMO": "#46BEFA"
+            }
+        },
+        "Cluster": {
+            "colors": {
+                "C1": "#46BEFA",
+                "C2": "#ED462F",
+                "C3": "#AAF22B",
+                "C4": "#F5AE32",
+                "C5": "#FFFF00"
+            }
+        }
+    },
+    "numeric": {}
+}
